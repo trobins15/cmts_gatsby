@@ -20,10 +20,10 @@ module.exports = {
         ],
       },
       {
-        title: 'Document submenu',
+        title: 'Why CMTS Matters',
         items: [
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
+          { text: 'National Strategy for the MTS', link: '/document' },
+          { text: 'MTS Priorities and CMTS Recommendations', link: '/document' },
           { text: 'Navigation link', link: '/' },
         ],
       },
