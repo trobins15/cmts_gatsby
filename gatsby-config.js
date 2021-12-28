@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    author: 'Foo',
-    title: `Agency Name`,
+    author: 'CMTS',
+    title: `U.S. Committee on the Marine Transportation System`,
     description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
     navigation: [
