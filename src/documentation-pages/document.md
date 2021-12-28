@@ -1,6 +1,7 @@
 ---
 title: Document
 sidenav: false
+manual_pdf: /images/catherine_simons.jpg
 ---
 
 # Section heading (h1)
