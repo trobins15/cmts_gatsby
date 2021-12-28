@@ -27,6 +27,7 @@ const Nav = ({ navigation, secondaryLinks }) => (
                 <ul
                   id={`extended-nav-section-${idx}`}
                   className="usa-accordion__content usa-nav__submenu"
+                  hidden
                 >
                   {navGroup.items.map((navItem, idx) => (
                     <li key={idx} className="usa-nav__submenu-item">
