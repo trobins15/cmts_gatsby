@@ -24,7 +24,7 @@ module.exports = {
         items: [
           { text: 'National Strategy for the MTS', link: '/document' },
           { text: 'MTS Priorities and CMTS Recommendations', link: '/document' },
-          { text: 'Navigation link', link: '/' },
+          { text: 'Navigation link', link: '/' }
         ],
       },
     ],
