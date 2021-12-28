@@ -32,7 +32,13 @@ collections:
         }
       - { label: 'Author', name: 'author', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          options: ["Arctic", "Energy", "Air Emissions", "Future of Navigation", "Infrastructure", "Maritime Data", "Ocean Policy", "R&D", "Resilience", "Education", "Safety and Security", "Economics", "Environmental Stewardship", "Capacity", "National Strategy", "Performance Measures"]
+        }
   - name: documentation
     label: Documentation Pages
     label_singular: Documentation Page
