@@ -51,3 +51,11 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - {label: "Manual PDF",
+         name: "manual_pdf",
+         widget: "file",
+         default: "/uploads/general-manual.pdf",
+         media_library:
+        config:
+          multiple: true
+       }
