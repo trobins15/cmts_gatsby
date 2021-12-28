@@ -54,5 +54,8 @@ collections:
       - { label: "Manual PDF",
          name: "manual_pdf",
          widget: "file",
-         default: "/uploads/general-manual.pdf"
+         default: "/uploads/general-manual.pdf",
+         media_library: ,
+         config: ,
+          multiple: true
        }
