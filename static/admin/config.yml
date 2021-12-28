@@ -55,6 +55,8 @@ collections:
          name: "manual_pdf",
          widget: "file",
          default: "/uploads/general-manual.pdf",
+           media_folder: "../../static/img/documents",
+          public_folder: "/img/documents",
          multiple: true
          }
  
